@@ -14,5 +14,5 @@ This is a personal portfolio website created using **HTML** and **CSS**. It show
 - CSS3
 
 ## Live Preview
-You can view the live version of the website [here](#). *(Replace `#` with your actual live link if hosted)*
+You can view the live version of the website [here](https://sibisreeman.github.io/portfolio-website/). 
 
